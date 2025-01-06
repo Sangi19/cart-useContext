@@ -1,12 +1,12 @@
 // src/components/Header.jsx
 import React from 'react';
+import './Header.css';
 import { Link } from 'react-router-dom';
 
 const Header = () => {
   return (
-    <header>
-      <h1>My Food Cart</h1>
-      <nav>
+    <header className='navbar'>
+      <div className='logo'>Food Cart</div>
         <ul>
           <li>
             <Link to="/">Home</Link>
@@ -15,7 +15,6 @@ const Header = () => {
             <Link to="/Cart">Cart</Link>
           </li>
         </ul>
-      </nav>  
     </header>
   );
 };

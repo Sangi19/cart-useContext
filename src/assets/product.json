@@ -1,0 +1,183 @@
+[
+    {
+      "id": 1,
+      "name": "Organic Apple",
+      "amt": 3.5,
+      "shop": "GreenMart",
+      "ftype": "Fruits",
+      "pic": "https://example.com/images/apple.jpg",
+      "latest": true
+    },
+    {
+      "id": 2,
+      "name": "Banana",
+      "amt": 1.2,
+      "shop": "FreshMarket",
+      "ftype": "Fruits",
+      "pic": "https://example.com/images/banana.jpg",
+      "latest": false
+    },
+    {
+      "id": 3,
+      "name": "Chicken Breast",
+      "amt": 8.99,
+      "shop": "MeatPalace",
+      "ftype": "Meat",
+      "pic": "https://example.com/images/chicken.jpg",
+      "latest": true
+    },
+    {
+      "id": 4,
+      "name": "Whole Wheat Bread",
+      "amt": 2.5,
+      "shop": "Baker's Delight",
+      "ftype": "Bakery",
+      "pic": "https://example.com/images/bread.jpg",
+      "latest": false
+    },
+    {
+      "id": 5,
+      "name": "Tomato",
+      "amt": 2.0,
+      "shop": "GreenMart",
+      "ftype": "Vegetables",
+      "pic": "https://example.com/images/tomato.jpg",
+      "latest": true
+    },
+    {
+      "id": 6,
+      "name": "Avocado",
+      "amt": 3.0,
+      "shop": "FreshMarket",
+      "ftype": "Fruits",
+      "pic": "https://example.com/images/avocado.jpg",
+      "latest": false
+    },
+    {
+      "id": 7,
+      "name": "Salmon Fillet",
+      "amt": 15.5,
+      "shop": "Seafood World",
+      "ftype": "Seafood",
+      "pic": "https://example.com/images/salmon.jpg",
+      "latest": true
+    },
+    {
+      "id": 8,
+      "name": "Frozen Peas",
+      "amt": 2.2,
+      "shop": "FrozenGoods",
+      "ftype": "Frozen",
+      "pic": "https://example.com/images/peas.jpg",
+      "latest": false
+    },
+    {
+      "id": 9,
+      "name": "Milk",
+      "amt": 1.5,
+      "shop": "DairyLand",
+      "ftype": "Dairy",
+      "pic": "https://example.com/images/milk.jpg",
+      "latest": true
+    },
+    {
+      "id": 10,
+      "name": "Cheddar Cheese",
+      "amt": 5.0,
+      "shop": "DairyLand",
+      "ftype": "Dairy",
+      "pic": "https://example.com/images/cheddar.jpg",
+      "latest": false
+    },
+    {
+      "id": 11,
+      "name": "Oats",
+      "amt": 3.0,
+      "shop": "GrainStore",
+      "ftype": "Grains",
+      "pic": "https://example.com/images/oats.jpg",
+      "latest": true
+    },
+    {
+      "id": 12,
+      "name": "Pineapple",
+      "amt": 4.0,
+      "shop": "Tropical Fruits",
+      "ftype": "Fruits",
+      "pic": "https://example.com/images/pineapple.jpg",
+      "latest": false
+    },
+    {
+      "id": 13,
+      "name": "Brown Sugar",
+      "amt": 2.5,
+      "shop": "SweetenUp",
+      "ftype": "Baking",
+      "pic": "https://example.com/images/brown_sugar.jpg",
+      "latest": true
+    },
+    {
+      "id": 14,
+      "name": "Organic Eggs",
+      "amt": 3.0,
+      "shop": "FarmFresh",
+      "ftype": "Dairy",
+      "pic": "https://example.com/images/eggs.jpg",
+      "latest": false
+    },
+    {
+      "id": 15,
+      "name": "Spinach",
+      "amt": 2.0,
+      "shop": "GreenMart",
+      "ftype": "Vegetables",
+      "pic": "https://example.com/images/spinach.jpg",
+      "latest": true
+    },
+    {
+      "id": 16,
+      "name": "Honey",
+      "amt": 5.0,
+      "shop": "SweetenUp",
+      "ftype": "Sweeteners",
+      "pic": "https://example.com/images/honey.jpg",
+      "latest": false
+    },
+    {
+      "id": 17,
+      "name": "Garlic",
+      "amt": 1.5,
+      "shop": "GreenMart",
+      "ftype": "Vegetables",
+      "pic": "https://example.com/images/garlic.jpg",
+      "latest": true
+    },
+    {
+      "id": 18,
+      "name": "Beef Steak",
+      "amt": 12.99,
+      "shop": "MeatPalace",
+      "ftype": "Meat",
+      "pic": "https://example.com/images/steak.jpg",
+      "latest": false
+    },
+    {
+      "id": 19,
+      "name": "Orange Juice",
+      "amt": 3.5,
+      "shop": "BeverageStore",
+      "ftype": "Beverages",
+      "pic": "https://example.com/images/orange_juice.jpg",
+      "latest": true
+    },
+    {
+      "id": 20,
+      "name": "Greek Yogurt",
+      "amt": 4.0,
+      "shop": "DairyLand",
+      "ftype": "Dairy",
+      "pic": "https://example.com/images/yogurt.jpg",
+      "latest": false
+    }
+  ]
+  
